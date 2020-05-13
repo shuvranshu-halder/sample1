@@ -1,0 +1,35 @@
+body{
+	background-image:url("../images/books.jpg");
+	padding:20px;
+	color:#ffffff;
+}
+header{
+	text-align: center;
+	padding:30px;
+	font-size: xx-large;
+	font-weight: bold;
+}
+h1{
+	font-size:80px;
+	color:#b92446e0;
+	background-color: #ffffff52;
+	border-radius:20px;
+	border:outset 5px;
+}
+header a{
+	padding:5px 60px 5px 60px;
+	background-color: #ffffff;
+	opacity:70%;
+	margin:40px;
+	border-radius:20px;
+	text-decoration: none;
+}
+header a:hover{
+	background-color:#ffffff;
+	opacity:100%;
+}
+h3{
+	display:block;
+	text-align: right;
+}
+
