@@ -2,7 +2,7 @@ body{
 	margin:10px;
 }
 header{
-	background-image: url("../images/background.jpg");
+	background-image: url("background.jpg");
 	padding:20px;
 	margin:10px 0px 10px 0px;
 	border-radius: 50px;
@@ -36,7 +36,7 @@ img{
 	margin:20px;
 }
 body{
-	background-image: url("../images/study.jpg");
+	background-image: url("study.jpg");
 	color:#ffffff;
 	font-size:30px;
 	opacity:80%;
