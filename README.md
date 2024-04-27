@@ -1,1 +1,1 @@
-# sample1
+simple website using html, css, javascript
